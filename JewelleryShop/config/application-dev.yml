@@ -1,0 +1,7 @@
+server.port: 7000
+
+spring:
+  datasource:
+    url: jdbc:Mysql://localhost:3306/jewelleryshop
+    username: root
+    password: root
